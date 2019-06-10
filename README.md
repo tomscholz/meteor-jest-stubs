@@ -1,5 +1,5 @@
 # meteor-jest-stubs
-This is a supported fork of [orangecms/jest-meteor-stubs](https://github.com/orangecms/jest-meteor-stubs). Please note that, the package name is slightly different that the original one:
+This is a supported fork of [orangecms/jest-meteor-stubs](https://github.com/orangecms/jest-meteor-stubs). Please note that, the package name is slightly different than the original one:
 
 ```diff
 - jest-meteor-stubs
